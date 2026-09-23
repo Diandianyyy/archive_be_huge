@@ -1,0 +1,8 @@
+Origin: be-huge Archive
+Label: be-huge 源备份
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Automated archive of https://be-huge.github.io/repo/
