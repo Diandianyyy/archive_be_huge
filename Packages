@@ -1,0 +1,837 @@
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1016
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.bullet_1.0.0_iphoneos-arm64_634a838c1b9b9a4bf87be2224edc2c2da93b2d5e7a5eb7da39779c3856049957.deb
+Size: 170298
+MD5sum: 1613b4348ea84ed997b806d5d81e4d5b
+SHA1: a144081541b20b5c77a0d54922d40bd06c809492
+SHA256: 634a838c1b9b9a4bf87be2224edc2c2da93b2d5e7a5eb7da39779c3856049957
+SHA512: a90b0bfcdf9dfee6b973a66a25f94eabdf4845b71b7f81c2afadfc6d13e2592b1a47a69718d7f365788e16020c749d15313fdc6be019182e4d56b769684a0879
+Description: 弹幕通知
+Name: bullet
+Author: be-huge
+
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1040
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.bullet_1.0.1_iphoneos-arm64_d51e05c7dd25481a9acce4284d3782679fd7269a303ab1bb2f30e732f49c59b1.deb
+Size: 190074
+MD5sum: 420b8b95a89972b61b65b6c508543212
+SHA1: b8d5ca1bfe9eff7d82904d1a2c2be87f462892d6
+SHA256: d51e05c7dd25481a9acce4284d3782679fd7269a303ab1bb2f30e732f49c59b1
+SHA512: 7242aa9ac9779617339013f21a54727de5bbe6b756adaabc75e785057102db58bff3a5715dec3c6f676afa410f7bcb1d51d7364cdd74f33fcc21805fc9a8db49
+Description: 弹幕通知
+Name: bullet
+Author: be-huge
+
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1048
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.bullet_1.0.2_iphoneos-arm64_030e1ad93c43ebf385a6d24ba135d1836a543f191551ede097192e0f2625ef98.deb
+Size: 198706
+MD5sum: 9f3394fdb161abf7e80a3a1f5f0a49a1
+SHA1: 916dd91a78ab2243036b009253a8642ab065240f
+SHA256: 030e1ad93c43ebf385a6d24ba135d1836a543f191551ede097192e0f2625ef98
+SHA512: 3c7bd769d148d2101c17b89400432a95236ac3f46996d5a70dc6859610ea5fbc2998a83b3f7d9f4e3616dc966b6ccca0bcc381fcca516864ac4c2fc41b87b2a7
+Description: 弹幕通知
+Name: bullet
+Author: be-huge
+
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1080
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.bullet_1.0.3_iphoneos-arm64_687393ada5c31e59425d0f37ec40997b5d917bacf2bd7d1cf856d280ec136145.deb
+Size: 206588
+MD5sum: ede655031ba71788f1f210dbdef8651d
+SHA1: 886c6e7723aa9f01cf2cebc11c866ff71b1b138f
+SHA256: 687393ada5c31e59425d0f37ec40997b5d917bacf2bd7d1cf856d280ec136145
+SHA512: 38528e7a9f56e088851f77b9a428295d8accdc8f6eda6a436e4facce0520b2f33e8e93d366e9f8df49e006450a13c51f4b7f2edd2f20102f790cfc960a431d73
+Description: 弹幕通知
+Name: bullet
+Author: be-huge
+
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1080
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.bullet_1.0.4_iphoneos-arm64_dad6c668fcca738a4f851f3ec824e50f3c49fd4a457c47ce3a795e0ceaadc40e.deb
+Size: 207528
+MD5sum: a5c1a20bb4f978acff64632f246228bf
+SHA1: ae19d1a1c6f7d0fb848afb084ce3aff6ad955291
+SHA256: dad6c668fcca738a4f851f3ec824e50f3c49fd4a457c47ce3a795e0ceaadc40e
+SHA512: 743c253d2c91db813a4f15b0df189f64177dea0a56d54239173eaa9b1f70b71331c0630188821a260dbf3309dae236f41060ba495496db090433a94011e1bf32
+Description: 弹幕通知
+Name: bullet
+Author: be-huge
+
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64
+Version: 1.0.4-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1080
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.bullet_1.0.4-1_iphoneos-arm64_fe7340a1d13a826d71988bb3086b0af16b54473060f81e80e6f9889dc44c0a61.deb
+Size: 207972
+MD5sum: 1fe275908ca239a09cfdeb73519a6ed7
+SHA1: b1fdb1b6fdc663764db535fbdac4e4609ed3261f
+SHA256: fe7340a1d13a826d71988bb3086b0af16b54473060f81e80e6f9889dc44c0a61
+SHA512: a13365414d6abea0f39ab9a6e9b43dc9894f3cd7f645889ccf5225a17d974b3e9474a2470eb370cc80cc83e9d82638641d9d05a4a584f342929d3a92287c8aa0
+Description: 弹幕通知
+Name: bullet
+Author: be-huge
+
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1096
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.bullet_1.0.5_iphoneos-arm64_0378692351a9798e3e49f665a12591a0b2a04c682077fd1fb8a01edc9ecfbf97.deb
+Size: 206922
+MD5sum: a24edfeb4b667e6eeebe62e79c76566f
+SHA1: 010556171f9f6093be847edb09622328cb5f3b00
+SHA256: 0378692351a9798e3e49f665a12591a0b2a04c682077fd1fb8a01edc9ecfbf97
+SHA512: 72775c7866122544ed7c548707a71cea90113b40c7d5c2801dd8c9b83bc1b6d6b9ee780bc58f5a41b69d496e85a19e3b7ef3b5c6f6ab65746634733960c6cb81
+Description: 弹幕通知
+Name: bullet
+Author: be-huge
+
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1096
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.bullet_1.0.6_iphoneos-arm64_95c42e707ca30a04f81dc244b31feba76b192f6dd6e3ef2519e905be53ce20b8.deb
+Size: 208174
+MD5sum: f0d42676d3b059439d4d0a55b3557acc
+SHA1: 91f58b40765dbaaebc5655a131ac6e8e07341a14
+SHA256: 95c42e707ca30a04f81dc244b31feba76b192f6dd6e3ef2519e905be53ce20b8
+SHA512: 264388f324ae50963d0cd66aad98a3c2471bd0eb6b67542370bd259cf09236b5547333b5b732ad28fca116ca61ac448c9627e154f0809a72ef03e54155984f01
+Description: 弹幕通知
+Name: bullet
+Author: be-huge
+
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1112
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.bullet_1.0.7_iphoneos-arm64_99b9d91689e846b6e4a1be8f17d9e73c59d9b096408ef5133880daacae475420.deb
+Size: 211050
+MD5sum: bf3db2e96b833c8da1d648d4a16c67b9
+SHA1: d1d1869a788f23bf5fb21390cb1a5d020934528a
+SHA256: 99b9d91689e846b6e4a1be8f17d9e73c59d9b096408ef5133880daacae475420
+SHA512: 06cc40105f3009ee416f3c5347be1e17e5d3cd8be38046cd425d867aedab62bb431d3bbac72e93bfc55ad2dc36eaab21f3b7d90b9549e5ac90da2efa40e09790
+Description: 弹幕通知
+Name: bullet(弹幕通知)-rootless
+Author: be-huge
+
+Package: com.be-huge.bullet
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1096
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.bullet_1.0.7_iphoneos-arm64e_5fc264615a696b2d03ba8a9e167fd37739f42aae414e50cf90dc82ae690a2801.deb
+Size: 209614
+MD5sum: 3f34a4a89d8e86d8cfa896423acd2628
+SHA1: 228bb8158d798491fe57a2a4e7aadf58f5369a5c
+SHA256: 5fc264615a696b2d03ba8a9e167fd37739f42aae414e50cf90dc82ae690a2801
+SHA512: 56a0e440ae7605a31707c88f44a5d728fff440c1625aad14a454d76b9d59b95ae446901248a3592162ea4ca7532c4309a5db7056748110c7fca4f8f08bb7ab95
+Description: 弹幕通知
+Name: bullet(弹幕通知)-roothide
+Author: be-huge
+
+Package: com.be-huge.custom-notification-sound
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.custom-notification-sound_1.0.0_iphoneos-arm64_4f56212139474641ce4f8c763815ab0ab672260838230ac501f4f1b890bc0c69.deb
+Size: 58944
+MD5sum: 69bf69386e0b06fd50d9405c1eb66c46
+SHA1: 53e871990f4aae7c241595f68200847cd23ad861
+SHA256: 4f56212139474641ce4f8c763815ab0ab672260838230ac501f4f1b890bc0c69
+SHA512: a28f9f563f9ce3c2743e0312807e2510b632de443638880c1beb934f45a07999b50a8a00f8bab1f123dddfffc54f6e534dd21c52ab1e720e86d9bd311579ab42
+Description: 自定义微信联系人通知声音（似乎对mp3文件不太友好）。使用方式：在对话框中，长按对方头像即可。
+Name: CustomWeChatNotificationSound
+Author: be-huge
+
+Package: com.be-huge.custom-notification-sound
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.custom-notification-sound_1.0.0_iphoneos-arm64e_28e376ebcd299475f3a774e49506a1776407fa0254f251a0408b0795ec56f099.deb
+Size: 57266
+MD5sum: 6d59c6d942c9477ecac04895e37c19ff
+SHA1: 2f0bb289faf395b52fba5f46c034acedd39ad12d
+SHA256: 28e376ebcd299475f3a774e49506a1776407fa0254f251a0408b0795ec56f099
+SHA512: 4ca822370912391e1254bc46eb0ecaf7f9971070a01c8044a41f6b07a6faae58f6b88697bed83d8fd27c3fb358e63849b870a6b30f0b8349c8316aeff3d3f0cb
+Description: 自定义微信联系人通知声音（似乎对mp3文件不太友好）。使用方式：在对话框中，长按对方头像即可。
+Name: CustomWeChatNotificationSound
+Author: be-huge
+
+Package: com.be-huge.global-v-console
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.be-huge.global-v-console_0.0.1_iphoneos-arm64_b11dc53057955b3e6bb3749b0ba593805fa1ef3173d8bf1802fc5254018f897a.deb
+Size: 71316
+MD5sum: 770425f1e3ed066cf3f14b6c61c6c5db
+SHA1: afaffa655e7f5b629bfeeb46af1f61f257006256
+SHA256: b11dc53057955b3e6bb3749b0ba593805fa1ef3173d8bf1802fc5254018f897a
+SHA512: 3318ab3a3d817d6332ae3e6a4cf6acbcd5b91ae88cae20eaf90a7cb2d456adbdf2377565f5e9748795abf3bec9f3015d7f0450cd3d20ac364166aa7aee414cf9
+Description: 开启WebView VConsole调试，绕过一些应用恶心的反调试WebView注入。
+Name: GlobalVConsole
+Author: be-huge
+
+Package: com.be-huge.global-v-console
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.be-huge.global-v-console_0.0.1_iphoneos-arm64e_56c45bb882b252c168cdf6d2433de879be5bce8758d545bd048d0364c58586d9.deb
+Size: 70326
+MD5sum: 030a67f6332417ecc0c8c4edc4e7fe12
+SHA1: 0afed39c74f0ab5c54bb7537e598fa7922e68202
+SHA256: 56c45bb882b252c168cdf6d2433de879be5bce8758d545bd048d0364c58586d9
+SHA512: bbb423c23b9067bcbb1166ca8cb76136ad3f61f30f974ebd3f6baf0da86e5335b9910d29b4f624eb31d90112c5f1f0a855d6957b59b5d72007da9717dc8770b4
+Description: 开启WebView VConsole调试，绕过一些应用恶心的反调试WebView注入。
+Name: GlobalVConsole
+Author: be-huge
+
+Package: com.be-huge.igg-no-ad
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.be-huge.igg-no-ad_0.0.1_iphoneos-arm64_6372d9daafa703da26496c82894df0e2ec3852222a242ea703412602b137e61d.deb
+Size: 3386
+MD5sum: cbaf98705c94ae06f410ff6eeed8350f
+SHA1: f7273036fb649366ddb71f1e1efc81196dc792f3
+SHA256: 6372d9daafa703da26496c82894df0e2ec3852222a242ea703412602b137e61d
+SHA512: 96f252cf6e851fb5f6dc38fb4932ec35cc98e7ac7220f837f0a52d295663d54bc17e5313487123fee96ab65369e692266bb5b07dceacf5b8412c71dbb2a8ed94
+Description: 移除iGameGod广告
+Name: igg-no-ad
+Author: be-huge
+
+Package: com.be-huge.insulation
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 212
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.insulation_0.0.1_iphoneos-arm64_1b0efb3ce304c4298ec200babee6ca16889433addd37aabe077a321a2e1e530a.deb
+Size: 22070
+MD5sum: e7e0deec68a3d78c1d167477dd3fa290
+SHA1: 9cf8d949ad457f90510563597bcc28c2dac1283f
+SHA256: 1b0efb3ce304c4298ec200babee6ca16889433addd37aabe077a321a2e1e530a
+SHA512: 7d8733a113872a06e747cf7908523f59a6555755caa76ca3e34a060fa36540bca490fab51a9bc8777b6f59589994398eb175d649fdf2fb38d5aaa5bb7a19c977
+Description: 解除温控，不一定所有机型生效，代码已开源：https://github.com/be-huge/insulation
+Name: insulation
+Author: be-huge
+
+Package: com.be-huge.insulation
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 468
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.insulation_0.0.2_iphoneos-arm64_42281aa1d1bfbdcfa31792bdebc8fd76e08830b4f189a87a84ad2ccad87a2c22.deb
+Size: 46532
+MD5sum: 5e3aff1d54467da70d5a647f138fafda
+SHA1: 35794de5e6d3f8817a9964f08b653912fa466b9b
+SHA256: 42281aa1d1bfbdcfa31792bdebc8fd76e08830b4f189a87a84ad2ccad87a2c22
+SHA512: 5b3283e73e5651843bab5a1dae20da717e1f3544b4a68ddc633ee32108d3b0e38366d7b282c381a73595ddd43b6b79144677321799c1330515a47f764d71d68c
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Name: insulation
+Author: be-huge
+
+Package: com.be-huge.insulation
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 484
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.insulation_0.0.3_iphoneos-arm64_48c543616e3eca34a3d90fa682969efaa9e1f39c004533f41d22c6e010033114.deb
+Size: 57810
+MD5sum: 73404d4650e3d1e099210c5216dc6717
+SHA1: 9cc54cb851309c4e448da948e0f626967d50da37
+SHA256: 48c543616e3eca34a3d90fa682969efaa9e1f39c004533f41d22c6e010033114
+SHA512: f90743be0e0dfe79a85cd0d2a23a76ff50f870277f42c7850c53a2119f96749f15a51c44dc25e6c6d3008a6bdb9fc5ad23239c1bd5f9e16937653493802d7e1f
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Name: insulation(解除温控)-rootless
+Author: be-huge
+
+Package: com.be-huge.insulation
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 484
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.insulation_0.0.3_iphoneos-arm64e_9517499c4907c91362c53301b78b20dcac56b2d6319112502e907910698ff463.deb
+Size: 55684
+MD5sum: ab1f86df8034120327cc605912c7b035
+SHA1: a71a39700ffc10e5ce7a85e8862d92410934dc38
+SHA256: 9517499c4907c91362c53301b78b20dcac56b2d6319112502e907910698ff463
+SHA512: 8e029ed1783f70821d4a09112ce7c6507aba2bb4926f5d7725cc2b0853eb235dacb09491ca5a68cd3e5ccb2aa4d3c3f70ee68eebacaf86afcdfe4b41a29e6cee
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Name: insulation(解除温控)-roothide
+Author: be-huge
+
+Package: com.be-huge.tie-gesture
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture_1.0.0_iphoneos-arm64_79d1b687735c25ed8c055aea12dc6bbb360e01a515ae67fdb2a284d7d2ee4c27.deb
+Size: 101982
+MD5sum: 5467677a41b055734e32454ac916eea0
+SHA1: 3ab0d160fe0198227fd2729170b50b75fa55fd4b
+SHA256: 79d1b687735c25ed8c055aea12dc6bbb360e01a515ae67fdb2a284d7d2ee4c27
+SHA512: 4621eb4a1ec62b7cad485e0317f91bec175132e5ed2ca32f7be0aeb2a27ee791964e165a68d7c42e5188944a475eaaa95ba40094c1728cc0ebe2eae7ec57e326
+Description: 手势插件，一切从简即可。
+Name: TieGesture
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1080
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.1_iphoneos-arm64_b8f2d279ddaef4f33cd80ac87b64affe7009802f631fdcaf1616b9e8cfbbeeaa.deb
+Size: 191934
+MD5sum: ec83b0471d0730fe58435cb06f2f27db
+SHA1: ed3ee2f8aebf1e1bb5e62c3879749c0ed4d3f4d7
+SHA256: b8f2d279ddaef4f33cd80ac87b64affe7009802f631fdcaf1616b9e8cfbbeeaa
+SHA512: b16ae56625d9aae332e575c1ed1f264997ccd8af20ea1b02d7fa14f2d0467d2b9440df4279ae89d7367fb0165cec2fa0334ddfc09a429b5edc20a934a2ea7881
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1144
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.2_iphoneos-arm64_93244cda8315443a00833938946cb3e7ecac17c5783c1d84696cc3423cb91ea7.deb
+Size: 210722
+MD5sum: f0a0e60b404b1f794a5a5b7712d46809
+SHA1: d83189715e89340d07b0d127052fd16147386fc7
+SHA256: 93244cda8315443a00833938946cb3e7ecac17c5783c1d84696cc3423cb91ea7
+SHA512: 97ff3d047d87dedb7ccfd2533440951cc9c91aace0690b4ba2f077b8bd9e062029e85aca5d43db789168d7db9e1899b12af2def5dec75eb72a1acadf9a7df9df
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1192
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.3_iphoneos-arm64_0539681f28a77812743917a6c4e0a3f48922bc7458254fd99cec886d83b3b4da.deb
+Size: 216852
+MD5sum: 88d406f79ef9d47fbd3ceb2aa7cef7e2
+SHA1: fbba52a4a55afecb596f45146e6f39d7f6a79d9c
+SHA256: 0539681f28a77812743917a6c4e0a3f48922bc7458254fd99cec886d83b3b4da
+SHA512: 2278e85212d35e3ae7f00cd80db98c5cdc70235f9bb89eed191ec2f971de777a3a8d50de76ed47fa26c671d7877c408026ac2dfedb48d40593331339aa6c4ca8
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1192
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.4_iphoneos-arm64_4d754d6ab7fb55189796e60c8aaa884ca050a167b61428dac89d3960c249a906.deb
+Size: 217934
+MD5sum: 7574ef97ef55c5f1b017d2591504f60f
+SHA1: 20bdb8f2be8b3e85cf760aee67363d66d79fe410
+SHA256: 4d754d6ab7fb55189796e60c8aaa884ca050a167b61428dac89d3960c249a906
+SHA512: 7cef84a613ed1636bc7bda971422820b1620eb78884486b9172b3343ec692c9bd3f5377f3ac65920f170359f84b10466dba618bf8a2429d32501db23b979c5d2
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1208
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.5_iphoneos-arm64_c638aa16a94255b9ac2bb02d28dc34ac810d14b140202e7295ac44eae767cf21.deb
+Size: 221926
+MD5sum: 12d208e0e55ebc6b137700896fc12fa7
+SHA1: 9b6d2343c16ecbe3f0b4ccca63c24dbec2019912
+SHA256: c638aa16a94255b9ac2bb02d28dc34ac810d14b140202e7295ac44eae767cf21
+SHA512: 7f1ef554b4afdee850f3488721f21019e5f5d3f75542d4119f6158fc51a7f263dccf1173b3b45ecb66b3de8e8c4216c7cd78609a2b7be2209ea4b65986f13d5b
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1224
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.6_iphoneos-arm64_ef0a51589b70b5995d1a53c12e7ff7d82b3d1c874960e05890e7310b8dffe9ab.deb
+Size: 237210
+MD5sum: a1370874dcd1dfaeb2b98e2240c7c1e3
+SHA1: bcb6c66d5f7465a233aa351cf86f10276683a01a
+SHA256: ef0a51589b70b5995d1a53c12e7ff7d82b3d1c874960e05890e7310b8dffe9ab
+SHA512: 0db155f6ba2676724ad4d7b0f3e5d06b6c43aa586214e7da480f4e9caf9078ae7b580bf6d2bc4fd0d7dffe81c97a78e9e23a1e3b9579f4079a30263c88393cc6
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.7_iphoneos-arm64_0cb14a8ad198e183d985696c230d2ec87cfdb6ab2a42a3548e820bf6d036f2e4.deb
+Size: 240622
+MD5sum: 5d6ac0f93a708e70a2d9bb7d35628ac8
+SHA1: 3edcf5b95d9e37c9b50e4b4cd584296f3c7604fa
+SHA256: 0cb14a8ad198e183d985696c230d2ec87cfdb6ab2a42a3548e820bf6d036f2e4
+SHA512: 44591f7cae366be570f9eb2c307a70cd4abc6e8bc8bae3d55f8534008515e7af0ab27687f9cb1a296950b4a99404186b768ebb0059ae77042b0876d4c6b04f19
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.8
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.8_iphoneos-arm64_a110c33120213de3d16820b2f7986553343c878d6e2508e8889049e656787c8f.deb
+Size: 241138
+MD5sum: 67061ffdda869b4e9983ccc4fda67b3d
+SHA1: f35c87a127e6fdf301531103eb938446d7088afb
+SHA256: a110c33120213de3d16820b2f7986553343c878d6e2508e8889049e656787c8f
+SHA512: 02a9252caa82d055b67d8f77c21fe91fa215cec74e0f5a11149f2f78ad8ece27e1a1ac607855b09a2d57d06fd457ee40bb7f119c9ca2b68e453fcf31d6cc2870
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.9
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.9_iphoneos-arm64_a75f653d042e36295e7e75e98cd5e89ac15d24527c1ebf3a9536aa430b1a2c1a.deb
+Size: 241664
+MD5sum: a9df7d7427fc056f0ccfcd211655ba0b
+SHA1: aba59d96c8284596aaed03bd71de007695256899
+SHA256: a75f653d042e36295e7e75e98cd5e89ac15d24527c1ebf3a9536aa430b1a2c1a
+SHA512: 91d5e626ddcab9eb497464f33e8410f4c103f05484a249981b83401197b739a9ad0a6b9fd83bdc179738b0d8337d0a8c1683119d76b13a2c3bf5650e88fe1671
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.0.9-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.0.9-1_iphoneos-arm64_3a363c993b793d2584f57b71f422d303cdc23417d9c282d28c99b632281715e9.deb
+Size: 241896
+MD5sum: ef9eed98281b740bd09ddf2883194507
+SHA1: 0a4ebd5936197513451b0bc384bd18c315e04a9b
+SHA256: 3a363c993b793d2584f57b71f422d303cdc23417d9c282d28c99b632281715e9
+SHA512: a1d15c45b82f9476e6b25f64515222af5dd717371678c0e0fffa340a8aa650f0da07b6f487c0c5ec1be08d0178157b83e33f4ffdf36ced077fc6fbbecca90320
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.1.0_iphoneos-arm64_9a409f403dcb063da1e90da0cd28be349d73cfe29e5626edd719216efd0d0c2f.deb
+Size: 245586
+MD5sum: 7ff821e8b0924126499aca17472e0abb
+SHA1: ab47e7f61cea381ed11aa40eeeab8fb8a3cb8ce1
+SHA256: 9a409f403dcb063da1e90da0cd28be349d73cfe29e5626edd719216efd0d0c2f
+SHA512: e202e46909756b41e6d7d2f8d4887adce349a5212740c0923b938ced26007a5f312f13e2e7942f550f798f949db7b2472fec980e3648baba127890ea3ebdd5fd
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.1.1_iphoneos-arm64_99b2150a56240aafb5b86d4f4034066c59484eb0cae0e72b8cb4436d667ece62.deb
+Size: 245732
+MD5sum: 40c5d5a0effed93393416dfd02380f12
+SHA1: 916003a2b05d26bd570c77bb30ffd542aeed8e2a
+SHA256: 99b2150a56240aafb5b86d4f4034066c59484eb0cae0e72b8cb4436d667ece62
+SHA512: 54c4367c1ca68e3eb696d256b00ffacd9505455f697e126ebe941abdd9876a0383dadd1874e9a096d9236c0941348c4bebbf6f9dd3b95610455f8f3e34adc7cd
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(手势-收费版)-rootless
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.1.2_iphoneos-arm64_e209de6d73e193caf7ffb937d41f706dedf37c381e906b9295a51e63f1986834.deb
+Size: 245994
+MD5sum: 63ba65b63ce911478941f1fac5e37843
+SHA1: 2daf9a19e26f2c44815c6e2fe6ca1a5885c38413
+SHA256: e209de6d73e193caf7ffb937d41f706dedf37c381e906b9295a51e63f1986834
+SHA512: d854cee63393eb95a7cd186690136ee327af1f59694d567a2c48691b67b0d830e590c23372583b5df138a71241ffbbba4805951d468365359ed5f29a08eb39d6
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64e
+Version: 1.1.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.tie-gesture-advance_1.1.1_iphoneos-arm64e_c1cf550ae0f4682ddae433af6b037dce6b75663d38a46730d850a14dfeb01128.deb
+Size: 244360
+MD5sum: 9e8dc988608b8add85ccc716678096f9
+SHA1: a4a398efca6e19d7f49f3a9c46af13d7db0d3814
+SHA256: c1cf550ae0f4682ddae433af6b037dce6b75663d38a46730d850a14dfeb01128
+SHA512: a844f97a86dd0ef4219b79be7c35b2fadf5d2feb07fc8cffd957cc4914932d9a397fadfecbfd18ede926f0448d24667f49bb46bce91e0e26c53ecf902ec02664
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(手势-收费版)-roothide
+Author: be-huge
+
+Package: com.be-huge.tie-gesture-advance
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.tie-gesture-advance_1.1.2_iphoneos-arm64e_f3717e4b3b8772446177ec31de106832b8159f7e1ed1266aee19e923f520e838.deb
+Size: 244244
+MD5sum: 35ab447eee7ad861d1dfe952abe5d81e
+SHA1: a5f943439a8b7c904bb2d94ab0f4f51a68f0d9cf
+SHA256: f3717e4b3b8772446177ec31de106832b8159f7e1ed1266aee19e923f520e838
+SHA512: 913e5230ab41bcd2d4122d3e10a7031ba563e3f59d168c7ee1ec8965d533c74bd00f9d031005e3e703654179b7da631d7533ec35609e1af0290cd3b92bf49d99
+Description: 手势插件，一切从简即可。
+Name: TieGesture-rootless(收费版)
+Author: be-huge
+
+Package: com.be-huge.view-controller-animated
+Architecture: iphoneos-arm64
+Version: 0.0.1-end
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.be-huge.view-controller-animated_0.0.1-end_iphoneos-arm64_e27cc7c60ef0505053452c87547034fa652786705d1c94aab141aa6baee96b4b.deb
+Size: 36810
+MD5sum: 219d7ff5ab1206e60a6e5682f0bbfe24
+SHA1: 44b803654fd5e915a3ca07fae6d616a361f5dc99
+SHA256: e27cc7c60ef0505053452c87547034fa652786705d1c94aab141aa6baee96b4b
+SHA512: 6613531f0f28cf530ffabb3a125306e2f8c80d150feecf7c58ef723427811fc14c193e15038aa22707cf98632cf947cc64f2911d7b153db4e6433f27ac039b12
+Description: VC关闭动画，代码已开源，自行优化。
+Name: ViewControllerAnimated-dismiss
+Author: be-huge
+
+Package: com.be-huge.wechat-pop-vc
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-pop-vc_0.0.1_iphoneos-arm64_63cc6ebb84e17a7ed11d731275dd86a6077f67aaedd89d4552811f49af6e0d8c.deb
+Size: 20478
+MD5sum: 1361ba12882fe567b68e607b5990e237
+SHA1: 16cc6b9d12e99db1664cce5d7073c0a2526a7f0b
+SHA256: 63cc6ebb84e17a7ed11d731275dd86a6077f67aaedd89d4552811f49af6e0d8c
+SHA512: d242101586f78a0a1815f11771988e929bbd6db185b58114b17d87bd6b4ce70709ac7f65104f5b5ce223910293654b36375f869e87e3a2fcc5a0b4b0ec9cc209
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Name: WeChatPopVC-rootless
+Author: be-huge
+
+Package: com.be-huge.wechat-pop-vc
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-pop-vc_0.0.2_iphoneos-arm64_bdedb3033371d318fd0ee20f933cc0222dfb12df514a3ccd3e056a2c6a2c1bf7.deb
+Size: 21064
+MD5sum: ca6b2a6041b9b15ed0811c591df3e5d6
+SHA1: e446c9e604dc358316a521b77fd9b95aa1235a91
+SHA256: bdedb3033371d318fd0ee20f933cc0222dfb12df514a3ccd3e056a2c6a2c1bf7
+SHA512: 82ab40428d90712394e7e95bda5b37e7c5ada28b36fe1a7290ff8430c32383a5c8a4c2ea35c32773d30c638fc4d3cdfeb4bef65ec91186717303929467f02402
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Name: WeChatPopVC-rootless
+Author: be-huge
+
+Package: com.be-huge.wechat-pop-vc
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-pop-vc_0.0.3_iphoneos-arm64_6a53af06dd12278ce173725de253b837678723bfe9c2e92b83a3a959287e1212.deb
+Size: 21580
+MD5sum: 9670e1462ad9c4b9c3a8d383b3f5d222
+SHA1: aac3378a2db164302ad8d11ca7718c4de5cce781
+SHA256: 6a53af06dd12278ce173725de253b837678723bfe9c2e92b83a3a959287e1212
+SHA512: 19b7d9a09dbccbe4a14d38d8a500b590e071d9167ec65d25560dba5a6131d500ac99d302f7d0e518de8201fc8419b00c396c54916a321941fc9b4fc57460303c
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Name: WeChatPopVC-rootless
+Author: be-huge
+
+Package: com.be-huge.wechat-pop-vc
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-pop-vc_0.0.4_iphoneos-arm64_0a8ff3ae3bfb00b81af653ee0ef0efd67a340618fbc8a3252b3bd3d08a1232d1.deb
+Size: 21874
+MD5sum: 49151a0cae3a48b8ead1420092648bd7
+SHA1: b055f05362230a9fa95c9e63ca1ab8196916011f
+SHA256: 0a8ff3ae3bfb00b81af653ee0ef0efd67a340618fbc8a3252b3bd3d08a1232d1
+SHA512: 8793c873ef81956aa22d9805c4033178134cc3e861e7b53d60865d9e468a1114a4d8eb2432ddb02d8e2b9eeb7fc4b170e63942dfc17cd39933637506d10794c6
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Name: WeChatPopVC-rootless
+Author: be-huge
+
+Package: com.be-huge.wechat-pop-vc
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-pop-vc_0.0.5_iphoneos-arm64_5c8bcd31590781230d90e71218d2ea8930785b9fadb2ff486f0d59dede7aebac.deb
+Size: 21956
+MD5sum: a42e23b71efac95e617958a6a406cd43
+SHA1: 1976783477f0226db2d0d2723e3aeeb9da930829
+SHA256: 5c8bcd31590781230d90e71218d2ea8930785b9fadb2ff486f0d59dede7aebac
+SHA512: 0fe34192cd85945171621c4e6475b5afee86f07297d1cdb9eb908dbfb766225783361ee9096fbad451b726474da737dc16fb585bd87977be9a5277ed8528064a
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Name: WeChatPopVC-rootless
+Author: be-huge
+
+Package: com.be-huge.wechat-pop-vc
+Architecture: iphoneos-arm64
+Version: 0.0.5-end
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-pop-vc_0.0.5-end_iphoneos-arm64_17eaaaf66363a67eaa245b0648ce2b002e1762cb29052bd91b2a25435b35bc2a.deb
+Size: 21794
+MD5sum: ecd0604c7f55ef0327b62ae5d4c96927
+SHA1: cbe6273438eb27d201ff477464f0c73cfa05d4fb
+SHA256: 17eaaaf66363a67eaa245b0648ce2b002e1762cb29052bd91b2a25435b35bc2a
+SHA512: be371468fd9ec4958bf2db08d3fd62cb944b3e56d76ee63558be087ac18e68968574cbeab1c5e0222896157e891052bf4b16e7a330c08b2df5822245e37fffe3
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。（代码已开源，后续功能失效可以自行打补丁）
+Name: WeChatPopVC-rootless
+Author: be-huge
+
+Package: com.be-huge.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.1_iphoneos-arm64_814fea29e5046679e7b83dd1af849212bcfba8b4041752aea239981b8882bb99.deb
+Size: 22708
+MD5sum: db181b22c7b8a07afa609305e7145f50
+SHA1: ba1b4c99b1d63ac69d436a764ab21c210f49ad86
+SHA256: 814fea29e5046679e7b83dd1af849212bcfba8b4041752aea239981b8882bb99
+SHA512: b6d38519965ab64b60b6e5ec431270895c6fbe546c01f96ed1b8f3a3f9068d9d5e938854193850024fefe9d731c1b4cc4d609205295eff6dcfc1372df6e4f182
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
+Name: WechatPushMsgPage-rootless
+Author: be-huge
+
+Package: com.be-huge.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.2_iphoneos-arm64_48e0fe00876ec861e8b87acd86f2378e92caf79ca1e50ac14bb3206ea41e7830.deb
+Size: 23202
+MD5sum: c6f3ac0029214061bceefc483426d6a4
+SHA1: 666b8002bc910db1ba59913ccb7c41c9a19efd4e
+SHA256: 48e0fe00876ec861e8b87acd86f2378e92caf79ca1e50ac14bb3206ea41e7830
+SHA512: 644c8639f06b95238ffef429720d78a70dd001e2cf9a032ba439d4166ae15222d762ea65910fa2ea5348a28607a2b14b6a20c73c0a7e57a14fc7965ed12ec42e
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: WechatPushMsgPage-rootless
+Author: be-huge
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.be-huge.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.3_iphoneos-arm64_57c61e400766da00cb730d3f1408dc2b1530515a0ec7ec902e92c3e8b298d637.deb
+Size: 23172
+MD5sum: 505059a1579f1d47007c1d7ea8511f47
+SHA1: f00880fbfbebc9e4514199787004ac955c295c0b
+SHA256: 57c61e400766da00cb730d3f1408dc2b1530515a0ec7ec902e92c3e8b298d637
+SHA512: 8dd772815d35d0717b666522e2246cc46afac0f1e7b6daf7b56ddb80ff9eeb2afdc5fb22a5007595024b9622d4e699327bc7a38769f5e596b9af89ea07e6e13d
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: WechatPushMsgPage-rootless
+Author: be-huge
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.be-huge.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.4_iphoneos-arm64_05d95e002b51160221c3ab148c872f44e677ae614f70adf987017a136b71b47f.deb
+Size: 23306
+MD5sum: b4628250ae7674817d71dd918e5dcfb0
+SHA1: 95c980b4af4c21802751c05191bb276a8a1530e0
+SHA256: 05d95e002b51160221c3ab148c872f44e677ae614f70adf987017a136b71b47f
+SHA512: 2bbe40e6232a7de25f4513f80275173e9a721ddf8beeeb0c9dfa618f0922441ca034ec94371753e4e210f8e2884f2dc99dc1b29aece749757e5bfef23b838380
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: WechatPushMsgPage-rootless
+Author: be-huge
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.be-huge.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.5_iphoneos-arm64_fade8549cfb1b1d08a523004624f69a5f75379a1e4f5c6f50263c86a0ad43924.deb
+Size: 23320
+MD5sum: 7807a8bb6753a66d1d79d30317d60337
+SHA1: 75bb82754b5fdec3de4949ee2fb870e02996d4d1
+SHA256: fade8549cfb1b1d08a523004624f69a5f75379a1e4f5c6f50263c86a0ad43924
+SHA512: 5b984164d5b56eb0110db872d658b5276e390f46395908d523c3c976667b8feb45d0a97a66a83fbfa95b852e7cf2489ca2749a447582b34fd818f655d707ae56
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: WechatPushMsgPage-rootless
+Author: be-huge
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.be-huge.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.5-end
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.5-end_iphoneos-arm64_d97121445684d4a2448d3c071a5f49f7a14d95e0b7060ac30aacee70ba178ad5.deb
+Size: 25780
+MD5sum: 45fe440aef712f1f74de7c267d44d5ce
+SHA1: 90b70e1d590181635e0b0186c9daf4d278822090
+SHA256: d97121445684d4a2448d3c071a5f49f7a14d95e0b7060ac30aacee70ba178ad5
+SHA512: 40a5679c38bf107879dd54277ee12272f9606c00efcbeef39d9dc9ece9528d07abda9b8ed86c96e5bbec7777cba5e3dfb11a1efce96835f6b20f7c2f2a3f6614
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。（代码已开源，后续功能失效可以自行打补丁）
+Name: WechatPushMsgPage-rootless
+Author: be-huge
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.roothide.lockdown
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.roothide.lockdown_1.0.3_iphoneos-arm64_9ef43533270dce95f3cdf444608182915610fa9bbb895f942a7a428f13ae0b0f.deb
+Size: 5280
+MD5sum: 6fd98f67683865b8dfd5d52cce7fc8a2
+SHA1: 1652d51b533b43202b2ea7ddbf72aaa771cda59e
+SHA256: 9ef43533270dce95f3cdf444608182915610fa9bbb895f942a7a428f13ae0b0f
+SHA512: da9ada88854ec38a4f68a216d96de923c2143a35ec916a95e35e3bcd21818ceb5ea4dc375b304fedce99ee7cf16e7bdd6fd61b9ad1fca187cafd6cf9388a3ca5
+Description: JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Enabled by default!(编译自roothide作者的lockdown，以支持rootless)
+Name: lockdown(rootless)
+Author: roothide
